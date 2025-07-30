@@ -6,8 +6,7 @@ body{
     margin: 0;
     flex-direction:column ;
     flex-wrap: wrap;
-    display: flex;
-    min-width: 10%;    
+    display: flex;   
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
