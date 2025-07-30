@@ -10,6 +10,7 @@ body{
     box-sizing: border-box;
     scroll-behavior: smooth;
     background-color: #2e2c2c;
+    width:100%;
 }
 nav{
     font-family: belanosima;
